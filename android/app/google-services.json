@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918007335183",
+    "project_id": "naro-bytes",
+    "storage_bucket": "naro-bytes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918007335183:android:2bbfd50bacc71055b7d67a",
+        "android_client_info": {
+          "package_name": "com.example.narobytes_secondproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918007335183-dhio3lonfv73b7cpcamlsmh2uaj0f8jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narobytes_secondproject",
+            "certificate_hash": "7bd8cf660dc3aecc63157530c2040d6794de96ae"
+          }
+        },
+        {
+          "client_id": "918007335183-sks14csuf06mo3lkkd8ajo13llobgf6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6fhepRydwimgg6LJlUXuxgdKCQgUwj28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918007335183-sks14csuf06mo3lkkd8ajo13llobgf6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
