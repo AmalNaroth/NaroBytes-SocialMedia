@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:narobytes_secondproject/core/colors_const.dart';
-import 'package:narobytes_secondproject/login_page.dart';
+import 'package:narobytes_secondproject/presentation/login_page.dart';
 import 'package:narobytes_secondproject/widgets/common_widgets.dart';
 
 class SplashScreen extends StatefulWidget {
